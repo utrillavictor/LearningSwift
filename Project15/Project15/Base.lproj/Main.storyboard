@@ -22,7 +22,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cir-av-G3o">
-                                <rect key="frame" x="361" y="490" width="46" height="44"/>
+                                <rect key="frame" x="361" y="847" width="46" height="44"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="46" id="3gc-ow-U7v"/>
                                     <constraint firstAttribute="height" constant="44" id="GZZ-7R-8lx"/>
@@ -35,8 +35,8 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="Cir-av-G3o" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="EKN-bo-fx7"/>
-                            <constraint firstItem="Cir-av-G3o" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Zj5-5q-iRc"/>
+                            <constraint firstItem="Cir-av-G3o" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="VJC-FD-591"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="Cir-av-G3o" secondAttribute="bottom" constant="133" id="Vha-bP-Plj"/>
                         </constraints>
                     </view>
                     <connections>
